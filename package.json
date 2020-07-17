@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "@babel/plugin-proposal-class-properties": "^7.4.4",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.19",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "spotify-web-api-js": "^1.2.0",
